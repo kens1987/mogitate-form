@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Season;
 use Illuminate\Database\Seeder;
 
 class SeasonsTableSeeder extends Seeder
