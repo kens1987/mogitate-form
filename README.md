@@ -22,6 +22,7 @@
 ##  使用技術  
 
 ##  ER図  
+![スクリーンショット (525)](https://github.com/user-attachments/assets/bb8623f7-5fed-43ba-b571-8b9f2102444b)
 
 ##  URL  
 もぎたてフォーム：http://localhost/products  
