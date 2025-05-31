@@ -51,7 +51,7 @@
     </aside>
 
     <section class="product-list">
-      <a href="review.html" target="_blank" class="product-addition">+ 商品を追加</a>
+      <a href="" target="_blank" class="product-addition">+ 商品を追加</a>
 
       <div class="product-grid">
         @foreach ($products as $product)
